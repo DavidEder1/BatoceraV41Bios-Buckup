@@ -8,6 +8,7 @@ As Bios corretas e necessárias para o Batocera V41, sem arquivos desnecessário
 </p>
 
 <h2 align="center"> Raspberry Pi Bios Batocera V41</h2>
+
 ## Instalação fácil para Raspberry Pi:
 Abra o Terminal com `Ctrl + Alt + F3` ou conecte-se via SSH.
 
@@ -21,6 +22,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/BatoceraV41Bios/main/pi.sh | 
 ```
 
 <h2 align="center"> PC Bios Batocera V41 Butterfly</h2>
+
 ## Instalação fácil para PC:
 Conecte-se via SSH ou pressione `F1` e vá até o Terminal.
 
